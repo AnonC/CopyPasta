@@ -1,0 +1,19 @@
+Router:
+- No uPnP
+- Wireless disabled
+
+PC:
+- Use Linux for everything but games, not running Steam on Linux
+- Linux and Windows on separate disks, physically disconnect Linux disk when booting into Windows
+- Use peerblock on Windows
+- Very light Gentoo install as a VM host (DWM, no DE installed)
+- Virtualize pretty much everything on Linux (including Firefox), multiple VMs for security
+- Separate single-purpose bank/government-website-VM with encrypted VHD
+- Firefox addons: RequestPolicy, HTTPSEverywhere, NoScript, CookieMonster, ABP
+- (Pseudo-)randomly generated passwords of maximum allowed length and character classes per service, stored in an encrypted database
+- Temporary files stored on a ramdisk, files are gone on reboot
+- Shred potentially sensitive data instead of deleting
+- When installing scripts (e.g. vimscripts) outside of portage, scan the source manually
+- Not using Facebook, Twitter, etc.
+
+I may be forgetting some things.

@@ -1,0 +1,7 @@
+Linux Genuine Advantage™ is an exciting and mandatory new way for you to place your computer under the remote control of an untrusted third party!
+
+According to an independent study conducted by some scientists, many users of Linux are running non-Genuine versions of their operating system. This puts them at the disadvantage of having their computers work normally, without periodically phoning home unannounced to see if it's OK for their computer to continue functioning. These users are also missing out on the Advantage of paying ongoing licensing fees to ensure their computer keeps operating properly.
+
+Linux Genuine Advantage™ works by checking our licensing server periodically to make sure that the copy of Linux you are running is Genuine. This is determined by whether you have paid us the appropriate licensing fees. If you are out of compliance, and are past the grace period, logins to your machine will be disabled until the license fees are paid. How to log in to enter the license key when logins are disabled is left as an exercise for the reader.
+
+Finally! Linux users can experience a feature that until now remained the exclusive domain of proprietary software. 

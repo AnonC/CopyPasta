@@ -1,0 +1,11 @@
+I use linux since a long time ago, but seeing how lots of people here praise windows 7 so much and bash linux, I decided to try it. To my realisation this "windows 7 is good" thing is an elaborate troll; here are my reasons:
+
+Just after finishing installing it I rebooted and noticed that it wrote over grub, thus forbidding me to boot my other OS's. Why would you even do that? Why doesn't it check if there are other OS's installed and let me choose?
+
+After my first dissapontment I booted into my fresh windows 7 install and tried to install drivers for my gpu, after 5 minutes trying to find a package manager and some googling I understood that windows doesn't work like that! You have to go to the website of the GPU manufacturer to download drivers! WHY????!!!! Linux had package managers since before I had hair in my penis, how can windows, an OS made by a fucking billionaire corporation, don't have a simple package manager? I fucking had to use "internet explorer" (a fucking excuse to a good browser) to get a real browser!
+
+And it doesn't stop there! you have to look online for every program you want, all have different installers that make you agree to some obscure legal documents and try to install shitware like toolbars all over your computer! And that's not all, if you want to update most of these programs you can't fucking click somewhere to update them all, you have to update each of them manually, lots don't even have a way of updating them so you have to go to their site and download the new version!
+
+Also you can't do fucking anything with the "command line", it doesn't bring any of the famous coreutils available on all Linux distros and even Mac OSX! The command line is a fucking joke only made to show that their excuse for an OS could be useful.
+
+After raging for a few hours I understood your trolling /g/ and will stay away from that piece of crap you faggots love to rice 

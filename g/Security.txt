@@ -1,0 +1,14 @@
+>Live in a very rural area
+>Few neighbors, everyone owns guns
+>Everything is stored on a server with encrypted HDDs that can only be decrypted with both the password and the serial number of the processor that the server uses (which is retrieved automagically)
+>My entire home (especially server) has backup power for ~2 days, longer if the generator has more gas
+>Server requires two keys to startup (not even joking) that must be turned simultaneously; only my wife and I have a key
+>Password is ~32 Chars long from a pool of at least 92 different characters
+>Six different backups as of a month ago, plus two more from further back that are set up to be decrypted with a different processor on the off chance that my current one fails
+>Backup processor is kept in a separate lock box inside of a hidden safe
+>Entirely closed-circuit, no outside connections allowed
+>No DNS, not even over the local network
+>MAC addresses of the computers who try to connect are logged and I am emailed if the server doesn't recognize/trust one
+>If the right light switches in my home are in the correct position at any one moment, the server will power-down, reset bios, flush memory, restart, and run diagnostics for one day exactly before it can be used again
+>A timed breaker will be reset for every cold-restart restarting the day-long process if the diagnostics were stopped before the one day passed
+>The breaker can be reset by hand, but it requires a different two keys to open the box the breaker is housed in

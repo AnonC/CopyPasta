@@ -1,0 +1,18 @@
+Ive been using 2 USB drives for the past 3 - 3.5 years.
+
+Tails limux which is always kept upto date using luks and persistent encryption folders. 
+
+Kali-linux, which was formerly Backtrack linux and also kept up to date with a luks encrypted drive and a persistent volume. 
+Replica Android on my S2 that is yes encrypted with luks to some extent with using a Xprivacy xframework apk that stops all sensitive information being leaked, removing unneeded blobs when the rom was built.
+
+I own 8 laptops with all the hard drives removed, my only tower is a server running quebec linux that is the host of a VM I'm slowly learning how to build into a tails-server until the official one is released, a freeNAS VM for sharing files across my Phone, USB's.
+
+I don't own a phone line or Internet connection I always use obfs3 bridged connections and my entire phone is torified. 
+
+I run 3 rPI's behind the bridged connections, bridge, entry and exit nodes.
+
+Using a TP-Link directional 24dbi antenna with a 2w amplifier on a Alfa AWUS051NH.
+
+I know it's tin foil but I think it isn't even scratching the surface. 
+
+Does /g/ have anything like this ?
